@@ -1,0 +1,7 @@
+{
+  "name": "lavori-aperti",
+  "version": "0.1.0",
+  "description": "Pannello e status line con i lavori aperti: task della sessione, modifiche git non committate, commit non pushati, stash",
+  "author": { "name": "Ernesto De Rasis" },
+  "types": "./types/index.d.ts"
+}

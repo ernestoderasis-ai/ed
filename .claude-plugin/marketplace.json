@@ -1,0 +1,5 @@
+{
+  "name": "ed",
+  "owner": { "name": "Ernesto De Rasis" },
+  "plugins": [{ "name": "lavori-aperti", "source": "./" }]
+}
